@@ -1,0 +1,32 @@
+iFILTER対策
+
+ここでは、多くの学生を苦しめているiFILTERの解除、突破等々についてのページです。
+おそらく筆者のは特に厳しい方(アプリインストール不可、プロキシ不可)です。教えて。頼む。
+iFILTER破壊
+注この方法はバージョン115以前の方のみが対象
+chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json
+上のURL入力らんに[chrome://kill]ここでずっとくるくるしてればok.
+chrome://extensions/?id=bkfmfndedcalgdgaklieojjfbbjpmijd、下の方の[chrome web storeのページに移動]、すぐにescを押す(キーボードの左上)、そこで[chrome://hang]を入力。
+
+筆者のはバージョン116なので動作確認はできてません。ただ前やったときはできた気がする。
+違ったら以下を試してみてください：[chrome://kill]を[chrome://hang]にしてみる。
+
+教えてくれるサイト
+見れる人はみて、コメント欄でおしえて。
+blogbooks.net
+https://scratch.mit.edu/→https://turbowarp.org/
+↑scrachでそれっぽいのみて、urlをtubowapに入れると見ることができます。
+なんならそれだけでもいくつかゲームできるかも。
+追記：これとかうちの学校でやってます。→https://copter.io/
+開いたら。ブロックされると思うので、
+1.(crtl+P)+enter連打　注（　右クリック+印刷+保存と同じこと)
+or,
+2.https://www.ilovepdf.com/ja/html-to-pdfで上に出てくるやつ(：https://copter.io/ではない)を入力し、downroadをクリック。
+
+ファイルでこのPDFを入力し、遊ぶ!
+tubowapで遊ぶ。
+上記の方法で遊んだscrachをオフラインでプレイするができます。
+方法：右上、[ファイル]→[プロジェクトをパッケージ化する]→スクロールし、赤色の[パッケージ]をクリック
+これとかおすすめ。シュールだけど暇つぶしにはなる。https://packager.turbowarp.org/?import_from=https://turbowarp.org注；左のは最初２つの工程をすでに終えてます。
+
+https://w.atwiki.jp/ifilterより
